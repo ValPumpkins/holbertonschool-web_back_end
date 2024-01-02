@@ -10,4 +10,5 @@
 <h2>🗂️ Folders, Chronological order</h2>
 <ol>
 <li>Python - Variable annotations</li>
+<li>Python - Async Function</li>
 </ol>
