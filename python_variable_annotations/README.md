@@ -1,7 +1,7 @@
 # <p align = "center">🐍 Python - Variable Annotations</p>
 ## <p align="center">🎓 Holberton School Program - Lille</p>
 
-![Python-wooden_blocks](https://i.imgur.com/DRPXtkk.jpg)
+<img src="https://i.imgur.com/DRPXtkk.jpg" width='100%' />
 
 ### Learning Objectives
 - Type annotations in Python 3
@@ -11,6 +11,6 @@
 
 ### Tasks
 - **0-add.py** : type-annotated function `add` that takes a float `a` and a float `b` as arguments and returns their sum as a float
-- 
+-
 
 
