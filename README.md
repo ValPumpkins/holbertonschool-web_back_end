@@ -11,4 +11,5 @@
 <ol>
 <li>Python - Variable annotations</li>
 <li>Python - Async Function</li>
+<li>Python - Async Comprehension</li>
 </ol>
