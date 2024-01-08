@@ -12,4 +12,5 @@
 <li>Python - Variable annotations</li>
 <li>Python - Async Function</li>
 <li>Python - Async Comprehension</li>
+<li>NoSQL</li>
 </ol>
