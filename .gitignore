@@ -1,1 +1,4 @@
 .devcontainer/devcontainer.json
+*.DS_Store
+NoSQL/*.json
+NoSQL/node_modules/*
