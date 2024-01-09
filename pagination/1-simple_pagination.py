@@ -22,7 +22,8 @@ def index_range(page: int, page_size: int) -> Tuple[int, int]:
 
 
 class Server:
-    """Server class to paginate a database of popular baby names.
+    """
+    Server class to paginate a database of popular baby names.
     """
     DATA_FILE = "Popular_Baby_Names.csv"
 
@@ -41,6 +42,13 @@ class Server:
         return self.__dataset
 
     def get_page(self, page: int = 1, page_size: int = 10) -> List[List]:
+        """ Returns page of dataset
+        Args:
+            page (int): page number
+            page_size (int): page size
+        Returns:
+            List[List]: page of dataset
+         """
         assert isinstance(page, int) and page > 0
         assert isinstance(page_size, int) and page_size > 0
 
