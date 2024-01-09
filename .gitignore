@@ -1,4 +1,13 @@
+# Container
 .devcontainer/devcontainer.json
-*.DS_Store
+
+# MAC
+.DS_Store
+
+# JSON
 NoSQL/*.json
-NoSQL/node_modules/*
+
+# DUMP
+NoSQL/dump.zip
+NoSQL/dump/logs/nginx.bson
+NoSQL/dump/logs/nginx.metadata.json
