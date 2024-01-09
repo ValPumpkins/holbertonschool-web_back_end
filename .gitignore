@@ -11,3 +11,6 @@ NoSQL/*.json
 NoSQL/dump.zip
 NoSQL/dump/logs/nginx.bson
 NoSQL/dump/logs/nginx.metadata.json
+
+# CSV
+pagination/Popular_Baby_Names.csv
