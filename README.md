@@ -13,4 +13,5 @@
 <li>Python - Async Function</li>
 <li>Python - Async Comprehension</li>
 <li>NoSQL</li>
+<li>Pagination</li>
 </ol>
