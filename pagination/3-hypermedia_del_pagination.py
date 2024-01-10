@@ -55,9 +55,9 @@ class Server:
         data = []
         next_index = index + page_size
 
-        for index in range(index, next_index):
-            if index in dataset:
-                data.append(dataset[index])
+        for current_index in range(index, next_index):
+            if current_index in dataset:
+                data.append(dataset[current_index])
             else:
                 break
 
