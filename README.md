@@ -14,4 +14,5 @@
 <li>Python - Async Comprehension</li>
 <li>NoSQL</li>
 <li>Pagination</li>
+<li>ES6 - Basic</li>
 </ol>
