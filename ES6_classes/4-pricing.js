@@ -3,10 +3,10 @@ import Currency from './3-currency';
 export default class Pricing {
   constructor(amount, currency) {
     if (typeof amount !== 'number') {
-      throw new TypeError('Amount must be a string');
+      throw new TypeError('Amount must be a number');
     }
     if (!(currency instanceof Currency)) {
-      throw new TypeError('urrency must be a currency');
+      throw new TypeError('Currency must be a currency');
     }
     this._amount = amount;
     this._currency = currency;
