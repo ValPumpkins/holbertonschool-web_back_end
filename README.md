@@ -15,4 +15,6 @@
 <li>NoSQL</li>
 <li>Pagination</li>
 <li>ES6 - Basic</li>
+<li>ES6 - Classes</li>
+<li>ES6 - Promise</li>
 </ol>
