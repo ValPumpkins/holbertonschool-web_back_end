@@ -1,7 +1,7 @@
 # <p align = "center">Web Back-end</p>
 ## <p align = "center">🎓 Holberton School - Lille</p>
 
-<img src="https://i.imgur.com/70agmCX.jpg" width='100%' /></a>
+<img src="https://i.imgur.com/70agmCX.jpg" width='100%' />
 
 ### 🗓️ from January 2, 2024 to (...)
 
