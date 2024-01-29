@@ -17,4 +17,5 @@
 <li>ES6 - Basic</li>
 <li>ES6 - Classes</li>
 <li>ES6 - Promise</li>
+<li>ES6 - Data Manipulaiton</li>
 </ol>
